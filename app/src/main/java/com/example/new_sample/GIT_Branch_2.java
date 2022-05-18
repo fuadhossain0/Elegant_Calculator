@@ -1,5 +1,5 @@
 package com.example.new_sample;
-
+//Conflict Generator 01
 public class GIT_Branch_2 {
     private String name;
 
